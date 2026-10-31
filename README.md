@@ -6,15 +6,6 @@ Actividad de **Arreglos y tipos abstractos de datos (Parte 1)** realizada en Pyt
 
 Permite registrar, mostrar, editar y eliminar productos y pedidos desde un menú. Usa listas para almacenar los datos y funciones para organizar cada operación. Al registrar un pedido descuenta las unidades del inventario; al eliminarlo, las devuelve si el producto todavía existe.
 
-## Ejecución
-
-1. Tener Python 3 instalado.
-2. Abrir una terminal en la carpeta del proyecto.
-3. Ejecutar:
-
-```bash
-python reto2_inventario_pedidos.py
-```
 
 4. Seleccionar las opciones del menú. Primero registrar un producto y luego crear un pedido.
 
