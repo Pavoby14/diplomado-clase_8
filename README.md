@@ -27,11 +27,11 @@ Permite registrar, mostrar, editar y eliminar productos y pedidos desde un menú
 ## Capturas del programa en ejecución
 
 ### Menú principal
-![Menú principal](imagenes/Captura de pantalla 2026-10-30 220901.png)
+![Menú principal](imagenes/PRINCIPAL.png)
 
 ### Productos registrados
 ![Productos registrados](imagenes/MOSTAR_PRODUCTO.png)
 
 ### Pedidos registrados
-![Pedidos registrados](imagenes/EDITAR_PRODUCTO Y PRESENTAR ACTUALIZACION DEL PRODUCTO.png)
+![Pedidos registrados](imagenes/EDITAR_PRODUCTO_PRESENTAR_ACTUALIZACION_DEL_PRODUCTO.png)
 
