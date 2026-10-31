@@ -24,21 +24,14 @@ Permite registrar, mostrar, editar y eliminar productos y pedidos desde un menú
 - **Ciclo `while`:** mantiene el menú activo.
 - **Funciones:** separan las distintas tareas para facilitar cambios futuros.
 
-## Rendimiento y mejoras posibles
-
-La búsqueda por código recorre las listas y tarda más cuantos más registros existan. Para una aplicación grande se podrían utilizar diccionarios y una base de datos. Esta versión es educativa: **los datos se pierden al cerrar el programa**. No guarda información de forma permanente.
-
 ## Capturas del programa en ejecución
 
-Una vez ejecutado el programa, tomar capturas de la pantalla y guardarlas dentro de la carpeta `imagenes` con estos nombres:
-
 ### Menú principal
-![Menú principal](imagenes/menu.png)
+![Menú principal](imagenes/Captura de pantalla 2026-10-30 220901.png)
 
 ### Productos registrados
-![Productos registrados](imagenes/productos.png)
+![Productos registrados](imagenes/MOSTAR_PRODUCTO.png)
 
 ### Pedidos registrados
-![Pedidos registrados](imagenes/pedidos.png)
+![Pedidos registrados](imagenes/EDITAR_PRODUCTO Y PRESENTAR ACTUALIZACION DEL PRODUCTO.png)
 
-> Las capturas deben ser reales y tomadas al ejecutar el archivo `.py` en tu computadora. Agrega estas imágenes a GitHub junto con el código.
