@@ -1,4 +1,4 @@
-# Reto 2: Sistema de gestión de pedidos e inventario
+# CLASE 8: Sistema de gestión de pedidos e inventario
 
 Actividad de **Arreglos y tipos abstractos de datos (Parte 1)** realizada en Python.
 
